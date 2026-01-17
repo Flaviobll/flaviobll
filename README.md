@@ -3,7 +3,7 @@
 **`Desenvolvedor Backend`**
 
 Olá, me chamo Flávio, sou estudante de Análise e Desenvolvimento de Sistemas, com foco em programação em Python. Desde o primeiro contato, fiquei fascinado pela sua estrutura e versatilidade.
-Estou comprometido em desenvolver minhas habilidades através de cursos online, tutoriais e leitura de livros. Participar de comunidades de tecnologia tem sido enriquecedor, permitindo trocas valiosas com outros desenvolvedores. Estou animado para enfrentar novos desafios e crescer na área! 
+Estou comprometido em desenvolver minhas habilidades através de cursos online, tutoriais e leitura de livros. Estou animado para enfrentar novos desafios e crescer na área! 
 
 
 
